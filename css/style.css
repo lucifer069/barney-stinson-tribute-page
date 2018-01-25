@@ -1,0 +1,15 @@
+h1{
+  font-family: 'Bubblegum Sans', cursive;
+}
+#caption{
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+#heading2{
+  font-family:'Cinzel Decorative',cursive;
+}
+.list-group-item:hover{
+  background-color:#D3D3D3;
+}
+.list-group-item{
+  font-family:'Quando',cursive;
+}
